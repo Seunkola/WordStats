@@ -12,7 +12,7 @@ In this project directory, the app was divided into two
 
 ### `Getting Started`
 
-To have a feel of the app, you can view demo at <a href="">View Demo</a>. App features include:
+To have a feel of the app, you can view demo at <a href="https://whispering-coast-88423.herokuapp.com/">View Demo</a>. App features include:
 <ul>
     <li>allow user inputs, update input and delete input</li>
     <li>Converts text into ngram and return no of counts</li>
@@ -27,7 +27,7 @@ To have a feel of the app, you can view demo at <a href="">View Demo</a>. App fe
     <li>npm install</li>
     <li>npm start </li>
     <li>View app on <a href="http://localhost:3000/">http://localhost:3000/</a>
-<ol>
+</ol>
 
 ### `Test`
 
